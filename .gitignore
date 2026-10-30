@@ -1,0 +1,7 @@
+salary_tracker
+salary_tracker_10MB.csv
+salary_tracker_100MB.csv
+*.db
+*_results.txt
+__pycache__/
+.venv/
